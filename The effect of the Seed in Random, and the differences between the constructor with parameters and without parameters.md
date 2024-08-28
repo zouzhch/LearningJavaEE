@@ -7,7 +7,7 @@ Random ran = new Random(10);
 ```
 <a name="PybdT"></a>
 #### What does a seed mean in the Random class?
-Actually, the constructor will set the current time as a seed if we evoke the constructor without any parameter. We can observe this from the source codes:
+Actually, the constructor will set the current time as a seed if we evoke the constructor without parameters. We can observe this from the source codes:
 
 1. Constructor without parameter
 ```java
